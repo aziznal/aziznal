@@ -141,6 +141,8 @@ I take care of the entire process of creating an application, starting with desi
 
 ## My Medium Articles
 - [I wrote a vscode extension to sort your Flutter imports](https://betterprogramming.pub/sorting-your-flutter-projects-imports-ffb88b4502f)
+- [The Ultimate Clean Architecture Template for Typescript](https://betterprogramming.pub/the-ultimate-clean-architecture-template-for-typescript-projects-e53936269bb9?source=your_stories_page-------------------------------------)
+- [How to implement a Typescript Web App with Clean Architecture](https://betterprogramming.pub/how-to-implement-a-typescript-web-app-with-clean-architecture-27c7eb745ab4?source=your_stories_page-------------------------------------)
 
 ---
 
