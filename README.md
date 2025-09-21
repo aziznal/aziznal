@@ -35,107 +35,12 @@
 ---
 
 # About Me
-I'm a fullstack web developer. I program web apps with Angular or React for frontend and NestJS / Express (depending on size of app) for backend. I make mobile apps with Flutter.
-
-I take care of the entire process of creating an application, starting with design, then planning, followed by development and testing, and finally deployment.
-
----
-
-## My Languages & Tools
-<!-- Coding Tools -->
-<div style="margin: 2rem 0;" align=center>
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Development Tools</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" width=40 height=40></img>
-    </div>
-</div>
-
-<!-- Frameworks -->
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Frameworks / Toolkits</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg" width=40 height=40 title="NestJS"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" width=40 height=40></img></div>
-</div>
-
-<!-- Cloud Providers -->
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Cloud Providers</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original-wordmark.svg" width=40 height=40></img>
-    </div>
-</div>
-
-<!-- Low-Level & Langs -->
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Programming, Markup, and Other Languages</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" width=40 height=40></img></div>
-</div>
-
-<!-- Libraries / Other -->
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Libraries, Utilities, and Standards</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/d3js/d3js-original.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width=40 height=40 title="Material UI"></img>
-    </div>
-</div>
-
-<!-- Utilities -->
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Design Utilities</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-line.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width=40 height=40></img>
-    </div>
-</div>
-
-<!-- Browsers. Cuz why not I guess -->
-<div style="margin: 2rem 0;">
-    <span style="display: block; margin: 1rem 0; font-size: 1.25rem;">Browsers</span>
-    <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original-wordmark.svg" width=40 height=40></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firefox/firefox-original-wordmark.svg" width=40 height=40></img></div>
-</div>
-</div>
+I'm a fullstack web developer. Experienced with:
+- Development
+- Design (UI & UX)
+- Deployment / Hosting
+- Localization
+- Observability & Monitoring
 
 ---
 
@@ -143,9 +48,20 @@ I take care of the entire process of creating an application, starting with desi
 - [I wrote a vscode extension to sort your Flutter imports](https://betterprogramming.pub/sorting-your-flutter-projects-imports-ffb88b4502f)
 - [The Ultimate Clean Architecture Template for Typescript](https://betterprogramming.pub/the-ultimate-clean-architecture-template-for-typescript-projects-e53936269bb9?source=your_stories_page-------------------------------------)
 - [How to implement a Typescript Web App with Clean Architecture](https://betterprogramming.pub/how-to-implement-a-typescript-web-app-with-clean-architecture-27c7eb745ab4?source=your_stories_page-------------------------------------)
+- VS Code shortcuts [part 1](https://medium.com/better-programming/vs-code-shortcuts-to-code-like-youre-playing-a-piano-e5db7b272d1?source=your_stories_outbox---writer_outbox_published-----------------------------------------), [part 2](https://medium.com/itnext/vs-code-shortcuts-to-code-like-youre-playing-a-piano-part-2-c27202ea7ea1?source=your_stories_outbox---writer_outbox_published-----------------------------------------), and [part 3](https://medium.com/itnext/vs-code-shortcuts-to-navigate-your-editor-like-tarzan-in-the-jungle-part-3-18563c4d3a79?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
+- [Dynamic toggleable resizeable sidenav in Angular](https://medium.com/itnext/the-ultimate-sidenav-guide-with-angular-resizeable-dynamic-and-toggleable-c42dc057798d?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
+- Vim for the VS Code user [part 1](https://medium.com/itnext/vim-for-the-vs-code-user-part-1-initial-setup-53617a4905f4?source=your_stories_outbox---writer_outbox_published-----------------------------------------) and [part 2](https://medium.com/itnext/vim-for-the-vs-code-user-part-2-language-support-d6e953973ccc?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
+- [Typescript monorepo with nx and npm workspaces](https://medium.com/itnext/easy-typescript-monorepo-with-npm-workspaces-b271d81837e7?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
+- [Choosing your backend: Onsite vs Cloud vs Serverless vs Edge](https://medium.com/itnext/choosing-your-backend-onsite-vs-cloud-vs-serverless-vs-edge-6d801a573a72?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
+- [Multitask like a pro with the WIP commit](https://medium.com/itnext/multitask-like-a-pro-with-the-wip-commit-2f4d40ca0192?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
+- [Create a slack daily bot with automations and cron jobs](https://medium.com/itnext/create-a-slack-daily-bot-with-automations-and-cron-jobs-7c863ee6faad?source=your_stories_outbox---writer_outbox_published-----------------------------------------)
 
 ---
 
-## Featured Projects
+## Featured
 
+- [aziznal.com](https://aziznal.com)
+- [Finance manager webapp](https://finance-manager.aziznal.com/)
+- [German docs](https://german-docs.aziznal.com/)
+- [Matrix effect](https://matrix-effect.aziznal.com/)
 - [Dart Import Sorter VS Code Extension](https://github.com/aziznal/dart-import-sorter)
